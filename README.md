@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Rich15
+- 👋 Hi, I’m Ricardo Osio
 - 👀 I’m interested in web development and some videogame development, even though it is not my main professional goal.
-- 🌱 I’m currently learning HTML5, CSS, Javascript and a little bit of Python
-- 💞️ I’m looking to learn more and improve my development skills. I'm just a beginner now, but I hope I would be able to do pretty good things if I keep practicing.
+- 🌱 I’m currently learning ReactJs and a little bit of Python.
+- 💞️ I’m always looking to improve my skills, both in Frontend and Backend.
+- 🤝 Maintainer of the [ALAN-IF](https://github.com/alan-if/alan-i18n) Spanish Library.
+
 - 📫 How to reach me: rdog1510@gmail.com
 
 <!---
